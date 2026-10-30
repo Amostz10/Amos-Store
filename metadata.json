@@ -1,0 +1,6 @@
+{
+  "name": "Amos Store - Personal Information & Document Vault",
+  "description": "Personal Information, Document and User Management System with role-based access, document verification, and black glassmorphism administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
